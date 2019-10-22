@@ -32,7 +32,7 @@ if sys.argv[-1] == 'publish':
     sys.exit()
 
 setup(
-    name='certifi',
+    name='python3-certifi',
     version=VERSION,
     description='Python package for providing Mozilla\'s CA Bundle.',
     long_description=open('README.rst').read(),
